@@ -110,9 +110,9 @@ Tracks unlocked profile IDs and timestamps.
 
 ---
 
-## Assumptions
+## Assumptions to strictly satify only task requirements 
 
-* No authentication (demo).
+* No authentication.
 * Credit system visual only.
 * 8 mock profiles preloaded.
 * Responsive across all screen sizes.
